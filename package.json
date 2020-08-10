@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Shopping List built with the MERN stack",
   "main": "server.js",
-  "scripts": {
+    "scripts": {
     "client-install":"npm install --prefix client",
     "start": "node server.js",
     "server":"nodemon server.js",
